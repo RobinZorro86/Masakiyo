@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "skills": {
+    "skill-vetter": {
+      "version": "1.0.0",
+      "installedAt": 1773466919741
+    },
+    "find-skills": {
+      "version": "0.1.0",
+      "installedAt": 1773467127767
+    },
+    "self-improving": {
+      "version": "1.2.16",
+      "installedAt": 1773467222867
+    },
+    "openclaw-tavily-search": {
+      "version": "0.1.0",
+      "installedAt": 1773467935939
+    }
+  }
+}
